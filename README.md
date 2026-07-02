@@ -39,4 +39,4 @@ The website is hosted on AWS EC2 using Nginx.
 
 ## Author
 
-**Goldy**
+**MANTHAN**
